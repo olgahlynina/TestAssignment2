@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Layouts -->
+    <item name="screen_coupon" type="layout"/>
+    <item name="screen_game" type="layout"/>
+    <item name="screen_coupon_generation" type="layout"/>
+    <item name="screen_popular" type="layout"/>
+    <item name="bottom_sheet_account_selection" type="layout"/>
+    <item name="dialog_bonus_restriction" type="layout"/>
+
+    <!-- IDs -->
+    <item name="coupon_events_recycler" type="id"/>
+    <item name="coupon_generation_button" type="id"/>
+    <item name="event_cell_root" type="id"/>
+    <item name="toolbar_back_button" type="id"/>
+    <item name="game_container" type="id"/>
+    <item name="coupon_generation_container" type="id"/>
+    <item name="popular_tabs" type="id"/>
+    <item name="weekly_game_slot" type="id"/>
+    <item name="accounts_recycler" type="id"/>
+    <item name="account_name" type="id"/>
+    <item name="account_item_root" type="id"/>
+    <item name="alert_message_text" type="id"/>
+    <item name="my_accounts_button" type="id"/>
+</resources>
